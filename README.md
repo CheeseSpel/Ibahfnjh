@@ -9,3 +9,4 @@
 
 
 # разбор кода
+![walpare](https://github.com/CheeseSpel/Ibahfnjh/blob/main/Assets1%20(1).png)
